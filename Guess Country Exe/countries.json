@@ -1,0 +1,1496 @@
+[
+    {
+        "name": "Afghanistan",
+        "capital": "Kabul",
+        "currency": "Afghan afghani",
+        "language": "Pashto"
+    },
+    {
+        "name": "Aland Islands",
+        "capital": "Mariehamn",
+        "currency": "Euro",
+        "language": "Swedish"
+    },
+    {
+        "name": "Albania",
+        "capital": "Tirana",
+        "currency": "Albanian lek",
+        "language": "Albanian"
+    },
+    {
+        "name": "Algeria",
+        "capital": "Algiers",
+        "currency": "Algerian dinar",
+        "language": "Arabic"
+    },
+    {
+        "name": "American Samoa",
+        "capital": "Pago Pago",
+        "currency": "United State Dollar",
+        "language": "English"
+    },
+    {
+        "name": "Andorra",
+        "capital": "Andorra la Vella",
+        "currency": "Euro",
+        "language": "Catalan"
+    },
+    {
+        "name": "Angola",
+        "capital": "Luanda",
+        "currency": "Angolan kwanza",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Anguilla",
+        "capital": "The Valley",
+        "currency": "East Caribbean dollar",
+        "language": "English"
+    },
+    {
+        "name": "Antigua And Barbuda",
+        "capital": "Saint John's",
+        "currency": "East Caribbean dollar",
+        "language": "English"
+    },
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "currency": "Argentine peso",
+        "language": "Spanish"
+    },
+    {
+        "name": "Armenia",
+        "capital": "Yerevan",
+        "currency": "Armenian dram",
+        "language": "Armenian"
+    },
+    {
+        "name": "Aruba",
+        "capital": "Oranjestad",
+        "currency": "Aruban florin",
+        "language": "Dutch"
+    },
+    {
+        "name": "Australia",
+        "capital": "Canberra",
+        "currency": "Australian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Austria",
+        "capital": "Vienna",
+        "currency": "Euro",
+        "language": "German"
+    },
+    {
+        "name": "Azerbaijan",
+        "capital": "Baku",
+        "currency": "Azerbaijani manat",
+        "language": "Azerbaijani"
+    },
+    {
+        "name": "Bxahamas",
+        "capital": "Nassau",
+        "currency": "Bahamian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Bahrain",
+        "capital": "Manama",
+        "currency": "Bahraini dinar",
+        "language": "Arabic"
+    },
+    {
+        "name": "Bangladesh",
+        "capital": "Dhaka",
+        "currency": "Bangladeshi taka",
+        "language": "Bengali"
+    },
+    {
+        "name": "Barbados",
+        "capital": "Bridgetown",
+        "currency": "Barbadian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Belarus",
+        "capital": "Minsk",
+        "currency": "New Belarusian ruble",
+        "language": "Belarusian"
+    },
+    {
+        "name": "Belgium",
+        "capital": "Brussels",
+        "currency": "Euro",
+        "language": "Dutch"
+    },
+    {
+        "name": "Belize",
+        "capital": "Belmopan",
+        "currency": "Belize dollar",
+        "language": "English"
+    },
+    {
+        "name": "Benin",
+        "capital": "Porto-Novo",
+        "currency": "West African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Bermuda",
+        "capital": "Hamilton",
+        "currency": "Bermudian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Bhutan",
+        "capital": "Thimphu",
+        "currency": "Bhutanese ngultrum",
+        "language": "Dzongkha"
+    },
+    {
+        "name": "Bolivia",
+        "capital": "Sucre",
+        "currency": "Bolivian boliviano",
+        "language": "Spanish"
+    },
+    {
+        "name": "Bonaire",
+        "capital": "Kralendijk",
+        "currency": "United States dollar",
+        "language": "Dutch"
+    },
+    {
+        "name": "Bosnia And Herzegovina",
+        "capital": "Sarajevo",
+        "currency": "Bosnia And Herzegovina convertible mark",
+        "language": "Bosnian"
+    },
+    {
+        "name": "Botswana",
+        "capital": "Gaborone",
+        "currency": "Botswana pula",
+        "language": "English"
+    },
+    {
+        "name": "Bouvet Island",
+        "capital": "",
+        "currency": "Norwegian krone",
+        "language": "Norwegian"
+    },
+    {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "currency": "Brazilian real",
+        "language": "Portuguese"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "capital": "",
+        "currency": "United States Dollar",
+        "language": "English"
+    },
+    {
+        "name": "British Virgin Islands",
+        "capital": "Road Town",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "U.S Virgin Islands",
+        "capital": "Charlotte Amalie",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "currency": "Brunei dollar",
+        "language": "Malay"
+    },
+    {
+        "name": "Bulgaria",
+        "capital": "Sofia",
+        "currency": "Bulgarian lev",
+        "language": "Bulgarian"
+    },
+    {
+        "name": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "currency": "West African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Burundi",
+        "capital": "Bujumbura",
+        "currency": "Burundian franc",
+        "language": "French"
+    },
+    {
+        "name": "Cambodia",
+        "capital": "Phnom Penh",
+        "currency": "Cambodian riel",
+        "language": "Khmer"
+    },
+    {
+        "name": "Cameroon",
+        "capital": "Yaoundé",
+        "currency": "Central African CFA franc",
+        "language": "English"
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "currency": "Canadian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Cabo Verde",
+        "capital": "Praia",
+        "currency": "Cape Verdean escudo",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Cayman Islands",
+        "capital": "George Town",
+        "currency": "Cayman Islands dollar",
+        "language": "English"
+    },
+    {
+        "name": "Central African Republic",
+        "capital": "Bangui",
+        "currency": "Central African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Chad",
+        "capital": "N'Djamena",
+        "currency": "Central African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Chile",
+        "capital": "Santiago",
+        "currency": "Chilean peso",
+        "language": "Spanish"
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "currency": "Chinese yuan",
+        "language": "Chinese"
+    },
+    {
+        "name": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "currency": "Australian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Cocos Islands",
+        "capital": "West Island",
+        "currency": "Australian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Colombia",
+        "capital": "Bogotá",
+        "currency": "Colombian peso",
+        "language": "Spanish"
+    },
+    {
+        "name": "Comoros",
+        "capital": "Moroni",
+        "currency": "Comorian franc",
+        "language": "French"
+    },
+    {
+        "name": "Congo",
+        "capital": "Brazzaville",
+        "currency": "Central African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Congo Democratic Republic",
+        "capital": "Kinshasa",
+        "currency": "Congolese franc",
+        "language": "French"
+    },
+    {
+        "name": "Cook Islands",
+        "capital": "Avarua",
+        "currency": "New Zealand dollar",
+        "language": "English"
+    },
+    {
+        "name": "Costa Rica",
+        "capital": "San José",
+        "currency": "Costa Rican colón",
+        "language": "Spanish"
+    },
+    {
+        "name": "Croatia",
+        "capital": "Zagreb",
+        "currency": "Croatian kuna",
+        "language": "Croatian"
+    },
+    {
+        "name": "Cuba",
+        "capital": "Havana",
+        "currency": "Cuban convertible peso",
+        "language": "Spanish"
+    },
+    {
+        "name": "Curacao",
+        "capital": "Willemstad",
+        "currency": "Netherlands Antillean guilder",
+        "language": "Dutch"
+    },
+    {
+        "name": "Cyprus",
+        "capital": "Nicosia",
+        "currency": "Euro",
+        "language": "Turkish"
+    },
+    {
+        "name": "Czech Republic",
+        "capital": "Prague",
+        "currency": "Czech koruna",
+        "language": "Czech"
+    },
+    {
+        "name": "Denmark",
+        "capital": "Copenhagen",
+        "currency": "Danish krone",
+        "language": "Danish"
+    },
+    {
+        "name": "Djibouti",
+        "capital": "Djibouti",
+        "currency": "Djiboutian franc",
+        "language": "French"
+    },
+    {
+        "name": "Dominica",
+        "capital": "Roseau",
+        "currency": "East Caribbean dollar",
+        "language": "English"
+    },
+    {
+        "name": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "currency": "Dominican peso",
+        "language": "Spanish"
+    },
+    {
+        "name": "Ecuador",
+        "capital": "Quito",
+        "currency": "United States dollar",
+        "language": "Spanish"
+    },
+    {
+        "name": "Egypt",
+        "capital": "Cairo",
+        "currency": "Egyptian pound",
+        "language": "Arabic"
+    },
+    {
+        "name": "El Salvador",
+        "capital": "San Salvador",
+        "currency": "United States dollar",
+        "language": "Spanish"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "capital": "Malabo",
+        "currency": "Central African CFA franc",
+        "language": "Spanish"
+    },
+    {
+        "name": "Eritrea",
+        "capital": "Asmara",
+        "currency": "Eritrean nakfa",
+        "language": "English"
+    },
+    {
+        "name": "Estonia",
+        "capital": "Tallinn",
+        "currency": "Euro",
+        "language": "Estonian"
+    },
+    {
+        "name": "Ethiopia",
+        "capital": "Addis Ababa",
+        "currency": "Ethiopian birr",
+        "language": "Amharic"
+    },
+    {
+        "name": "Falkland Islands",
+        "capital": "Stanley",
+        "currency": "Falkland Islands pound",
+        "language": "English"
+    },
+    {
+        "name": "Faroe Islands",
+        "capital": "Tórshavn",
+        "currency": "Danish krone",
+        "language": "Faroese"
+    },
+    {
+        "name": "Fiji",
+        "capital": "Suva",
+        "currency": "Fijian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Finland",
+        "capital": "Helsinki",
+        "currency": "Euro",
+        "language": "Finnish"
+    },
+    {
+        "name": "France",
+        "capital": "Paris",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "French Guiana",
+        "capital": "Cayenne",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "French Polynesia",
+        "capital": "Papeetē",
+        "currency": "CFP franc",
+        "language": "French"
+    },
+    {
+        "name": "French Southern Territories",
+        "capital": "Port-aux-Français",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Gabon",
+        "capital": "Libreville",
+        "currency": "Central African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Gambia",
+        "capital": "Banjul",
+        "currency": "Gambian dalasi",
+        "language": "English"
+    },
+    {
+        "name": "Georgia",
+        "capital": "Tbilisi",
+        "currency": "Georgian Lari",
+        "language": "Georgian"
+    },
+    {
+        "name": "Germany",
+        "capital": "Berlin",
+        "currency": "Euro",
+        "language": "German"
+    },
+    {
+        "name": "Ghana",
+        "capital": "Accra",
+        "currency": "Ghanaian cedi",
+        "language": "English"
+    },
+    {
+        "name": "Gibraltar",
+        "capital": "Gibraltar",
+        "currency": "Gibraltar pound",
+        "language": "English"
+    },
+    {
+        "name": "Greece",
+        "capital": "Athens",
+        "currency": "Euro",
+        "language": "Greek (modern)"
+    },
+    {
+        "name": "Greenland",
+        "capital": "Nuuk",
+        "currency": "Danish krone",
+        "language": "Kalaallisut"
+    },
+    {
+        "name": "Grenada",
+        "capital": "St. George's",
+        "currency": "East Caribbean dollar",
+        "language": "English"
+    },
+    {
+        "name": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Guam",
+        "capital": "Hagåtña",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "Guatemala",
+        "capital": "Guatemala City",
+        "currency": "Guatemalan quetzal",
+        "language": "Spanish"
+    },
+    {
+        "name": "Guernsey",
+        "capital": "St. Peter Port",
+        "currency": "British pound",
+        "language": "English"
+    },
+    {
+        "name": "Guinea",
+        "capital": "Conakry",
+        "currency": "Guinean franc",
+        "language": "French"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "capital": "Bissau",
+        "currency": "West African CFA franc",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Guyana",
+        "capital": "Georgetown",
+        "currency": "Guyanese dollar",
+        "language": "English"
+    },
+    {
+        "name": "Haiti",
+        "capital": "Port-au-Prince",
+        "currency": "Haitian gourde",
+        "language": "French"
+    },
+    {
+        "name": "Heard Island And McDonald Islands",
+        "capital": "",
+        "currency": "Australian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Holy See",
+        "capital": "Rome",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Honduras",
+        "capital": "Tegucigalpa",
+        "currency": "Honduran lempira",
+        "language": "Spanish"
+    },
+    {
+        "name": "Hong Kong",
+        "capital": "City of Victoria",
+        "currency": "Hong Kong dollar",
+        "language": "English"
+    },
+    {
+        "name": "Hungary",
+        "capital": "Budapest",
+        "currency": "Hungarian forint",
+        "language": "Hungarian"
+    },
+    {
+        "name": "Iceland",
+        "capital": "Reykjavík",
+        "currency": "Icelandic króna",
+        "language": "Icelandic"
+    },
+    {
+        "name": "India",
+        "capital": "New Delhi",
+        "currency": "Indian rupee",
+        "language": "Hindi"
+    },
+    {
+        "name": "Indonesia",
+        "capital": "Jakarta",
+        "currency": "Indonesian rupiah",
+        "language": "Indonesian"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "capital": "Yamoussoukro",
+        "currency": "West African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Iran",
+        "capital": "Tehran",
+        "currency": "Iranian rial",
+        "language": "Persian (Farsi)"
+    },
+    {
+        "name": "Iraq",
+        "capital": "Baghdad",
+        "currency": "Iraqi dinar",
+        "language": "Arabic"
+    },
+    {
+        "name": "Ireland",
+        "capital": "Dublin",
+        "currency": "Euro",
+        "language": "Irish"
+    },
+    {
+        "name": "Isle of Man",
+        "capital": "Douglas",
+        "currency": "British pound",
+        "language": "English"
+    },
+    {
+        "name": "Israel",
+        "capital": "Jerusalem",
+        "currency": "Israeli new shekel",
+        "language": "Hebrew (modern)"
+    },
+    {
+        "name": "Italy",
+        "capital": "Rome",
+        "currency": "Euro",
+        "language": "Italian"
+    },
+    {
+        "name": "Jamaica",
+        "capital": "Kingston",
+        "currency": "Jamaican dollar",
+        "language": "English"
+    },
+    {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "currency": "Japanese yen",
+        "language": "Japanese"
+    },
+    {
+        "name": "Jersey",
+        "capital": "Saint Helier",
+        "currency": "British pound",
+        "language": "English"
+    },
+    {
+        "name": "Jordan",
+        "capital": "Amman",
+        "currency": "Jordanian dinar",
+        "language": "Arabic"
+    },
+    {
+        "name": "Kazakhstan",
+        "capital": "Astana",
+        "currency": "Kazakhstani tenge",
+        "language": "Kazakh"
+    },
+    {
+        "name": "Kenya",
+        "capital": "Nairobi",
+        "currency": "Kenyan shilling",
+        "language": "English"
+    },
+    {
+        "name": "Kiribati",
+        "capital": "South Tarawa",
+        "currency": "Australian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Kuwait",
+        "capital": "Kuwait City",
+        "currency": "Kuwaiti dinar",
+        "language": "Arabic"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "currency": "Kyrgyzstani som",
+        "language": "Kyrgyz"
+    },
+    {
+        "name": "Laos",
+        "capital": "Vientiane",
+        "currency": "Lao kip",
+        "language": "Lao"
+    },
+    {
+        "name": "Latvia",
+        "capital": "Riga",
+        "currency": "Euro",
+        "language": "Latvian"
+    },
+    {
+        "name": "Lebanon",
+        "capital": "Beirut",
+        "currency": "Lebanese pound",
+        "language": "Arabic"
+    },
+    {
+        "name": "Lesotho",
+        "capital": "Maseru",
+        "currency": "Lesotho loti",
+        "language": "English"
+    },
+    {
+        "name": "Liberia",
+        "capital": "Monrovia",
+        "currency": "Liberian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Libya",
+        "capital": "Tripoli",
+        "currency": "Libyan dinar",
+        "language": "Arabic"
+    },
+    {
+        "name": "Liechtenstein",
+        "capital": "Vaduz",
+        "currency": "Swiss franc",
+        "language": "German"
+    },
+    {
+        "name": "Lithuania",
+        "capital": "Vilnius",
+        "currency": "Euro",
+        "language": "Lithuanian"
+    },
+    {
+        "name": "Luxembourg",
+        "capital": "Luxembourg",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Macao",
+        "capital": "",
+        "currency": "Macanese pataca",
+        "language": "Chinese"
+    },
+    {
+        "name": "North Macedonia",
+        "capital": "Skopje",
+        "currency": "Macedonian denar",
+        "language": "Macedonian"
+    },
+    {
+        "name": "Madagascar",
+        "capital": "Antananarivo",
+        "currency": "Malagasy ariary",
+        "language": "French"
+    },
+    {
+        "name": "Malawi",
+        "capital": "Lilongwe",
+        "currency": "Malawian kwacha",
+        "language": "English"
+    },
+    {
+        "name": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "currency": "Malaysian ringgit",
+        "language": "Malaysian"
+    },
+    {
+        "name": "Maldives",
+        "capital": "Malé",
+        "currency": "Maldivian rufiyaa",
+        "language": "Divehi"
+    },
+    {
+        "name": "Mali",
+        "capital": "Bamako",
+        "currency": "West African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Malta",
+        "capital": "Valletta",
+        "currency": "Euro",
+        "language": "Maltese"
+    },
+    {
+        "name": "Marshall Islands",
+        "capital": "Majuro",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "Martinique",
+        "capital": "Fort-de-France",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Mauritania",
+        "capital": "Nouakchott",
+        "currency": "Mauritanian ouguiya",
+        "language": "Arabic"
+    },
+    {
+        "name": "Mauritius",
+        "capital": "Port Louis",
+        "currency": "Mauritian rupee",
+        "language": "English"
+    },
+    {
+        "name": "Mayotte",
+        "capital": "Mamoudzou",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "currency": "Mexican peso",
+        "language": "Spanish"
+    },
+    {
+        "name": "Micronesia",
+        "capital": "Palikir",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "Moldova",
+        "capital": "Chișinău",
+        "currency": "Moldovan leu",
+        "language": "Romanian"
+    },
+    {
+        "name": "Monaco",
+        "capital": "Monaco",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Mongolia",
+        "capital": "Ulan Bator",
+        "currency": "Mongolian tögrög",
+        "language": "Mongolian"
+    },
+    {
+        "name": "Montenegro",
+        "capital": "Podgorica",
+        "currency": "Euro",
+        "language": "Serbian"
+    },
+    {
+        "name": "Montserrat",
+        "capital": "Plymouth",
+        "currency": "East Caribbean dollar",
+        "language": "English"
+    },
+    {
+        "name": "Morocco",
+        "capital": "Rabat",
+        "currency": "Moroccan dirham",
+        "language": "Arabic"
+    },
+    {
+        "name": "Mozambique",
+        "capital": "Maputo",
+        "currency": "Mozambican metical",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Myanmar",
+        "capital": "Naypyidaw",
+        "currency": "Burmese kyat",
+        "language": "Burmese"
+    },
+    {
+        "name": "Namibia",
+        "capital": "Windhoek",
+        "currency": "Namibian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Nauru",
+        "capital": "Yaren",
+        "currency": "Australian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Nepal",
+        "capital": "Kathmandu",
+        "currency": "Nepalese rupee",
+        "language": "Nepali"
+    },
+    {
+        "name": "Netherlands",
+        "capital": "Amsterdam",
+        "currency": "Euro",
+        "language": "Dutch"
+    },
+    {
+        "name": "New Caledonia",
+        "capital": "Nouméa",
+        "currency": "CFP franc",
+        "language": "French"
+    },
+    {
+        "name": "New Zealand",
+        "capital": "Wellington",
+        "currency": "New Zealand dollar",
+        "language": "English"
+    },
+    {
+        "name": "Nicaragua",
+        "capital": "Managua",
+        "currency": "Nicaraguan córdoba",
+        "language": "Spanish"
+    },
+    {
+        "name": "Niger",
+        "capital": "Niamey",
+        "currency": "West African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Nigeria",
+        "capital": "Abuja",
+        "currency": "Nigerian naira",
+        "language": "English"
+    },
+    {
+        "name": "Niue",
+        "capital": "Alofi",
+        "currency": "New Zealand dollar",
+        "language": "English"
+    },
+    {
+        "name": "Norfolk Island",
+        "capital": "Kingston",
+        "currency": "Australian dollar",
+        "language": "English"
+    },
+    {
+        "name": "North Korea",
+        "capital": "Pyongyang",
+        "currency": "North Korean won",
+        "language": "Korean"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "Norway",
+        "capital": "Oslo",
+        "currency": "Norwegian krone",
+        "language": "Norwegian"
+    },
+    {
+        "name": "Oman",
+        "capital": "Muscat",
+        "currency": "Omani rial",
+        "language": "Arabic"
+    },
+    {
+        "name": "Pakistan",
+        "capital": "Islamabad",
+        "currency": "Pakistani rupee",
+        "language": "English"
+    },
+    {
+        "name": "Palau",
+        "capital": "Ngerulmud",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "Palestine",
+        "capital": "Ramallah",
+        "currency": "Israeli new sheqel",
+        "language": "Arabic"
+    },
+    {
+        "name": "Panama",
+        "capital": "Panama City",
+        "currency": "United States dollar",
+        "language": "Spanish"
+    },
+    {
+        "name": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "currency": "Papua New Guinean kina",
+        "language": "English"
+    },
+    {
+        "name": "Paraguay",
+        "capital": "Asunción",
+        "currency": "Paraguayan guaraní",
+        "language": "Spanish"
+    },
+    {
+        "name": "Peru",
+        "capital": "Lima",
+        "currency": "Peruvian sol",
+        "language": "Spanish"
+    },
+    {
+        "name": "Philippines",
+        "capital": "Manila",
+        "currency": "Philippine peso",
+        "language": "English"
+    },
+    {
+        "name": "Pitcairn",
+        "capital": "Adamstown",
+        "currency": "New Zealand dollar",
+        "language": "English"
+    },
+    {
+        "name": "Poland",
+        "capital": "Warsaw",
+        "currency": "Polish złoty",
+        "language": "Polish"
+    },
+    {
+        "name": "Portugal",
+        "capital": "Lisbon",
+        "currency": "Euro",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Puerto Rico",
+        "capital": "San Juan",
+        "currency": "United States dollar",
+        "language": "Spanish"
+    },
+    {
+        "name": "Qatar",
+        "capital": "Doha",
+        "currency": "Qatari riyal",
+        "language": "Arabic"
+    },
+    {
+        "name": "Kosovo",
+        "capital": "Pristina",
+        "currency": "Euro",
+        "language": "Albanian"
+    },
+    {
+        "name": "Reunion",
+        "capital": "Saint-Denis",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Romania",
+        "capital": "Bucharest",
+        "currency": "Romanian leu",
+        "language": "Romanian"
+    },
+    {
+        "name": "Russia",
+        "capital": "Moscow",
+        "currency": "Russian ruble",
+        "language": "Russian"
+    },
+    {
+        "name": "Rwanda",
+        "capital": "Kigali",
+        "currency": "Rwandan franc",
+        "language": "Kinyarwanda"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "capital": "Gustavia",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Saint Helena, Ascension And Tristan da Cunha",
+        "capital": "Jamestown",
+        "currency": "Saint Helena pound",
+        "language": "English"
+    },
+    {
+        "name": "Saint Kitts And Nevis",
+        "capital": "Basseterre",
+        "currency": "East Caribbean dollar",
+        "language": "English"
+    },
+    {
+        "name": "Saint Lucia",
+        "capital": "Castries",
+        "currency": "East Caribbean dollar",
+        "language": "English"
+    },
+    {
+        "name": "Saint Martin",
+        "capital": "Marigot",
+        "currency": "Euro",
+        "language": "English"
+    },
+    {
+        "name": "Saint Pierre And Miquelon",
+        "capital": "Saint-Pierre",
+        "currency": "Euro",
+        "language": "French"
+    },
+    {
+        "name": "Saint Vincent And The Grenadines",
+        "capital": "Kingstown",
+        "currency": "East Caribbean dollar",
+        "language": "English"
+    },
+    {
+        "name": "Samoa",
+        "capital": "Apia",
+        "currency": "Samoan tālā",
+        "language": "Samoan"
+    },
+    {
+        "name": "San Marino",
+        "capital": "City of San Marino",
+        "currency": "Euro",
+        "language": "Italian"
+    },
+    {
+        "name": "Sao Tome And Principe",
+        "capital": "São Tomé",
+        "currency": "São Tomé And Príncipe dobra",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Saudi Arabia",
+        "capital": "Riyadh",
+        "currency": "Saudi riyal",
+        "language": "Arabic"
+    },
+    {
+        "name": "Senegal",
+        "capital": "Dakar",
+        "currency": "West African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Serbia",
+        "capital": "Belgrade",
+        "currency": "Serbian dinar",
+        "language": "Serbian"
+    },
+    {
+        "name": "Seychelles",
+        "capital": "Victoria",
+        "currency": "Seychellois rupee",
+        "language": "French"
+    },
+    {
+        "name": "Sierra Leone",
+        "capital": "Freetown",
+        "currency": "Sierra Leonean leone",
+        "language": "English"
+    },
+    {
+        "name": "Singapore",
+        "capital": "Singapore",
+        "currency": "Singapore dollar",
+        "language": "English"
+    },
+    {
+        "name": "Sint Maarten Netherlands",
+        "capital": "Philipsburg",
+        "currency": "Netherlands Antillean guilder",
+        "language": "Dutch"
+    },
+    {
+        "name": "Slovakia",
+        "capital": "Bratislava",
+        "currency": "Euro",
+        "language": "Slovak"
+    },
+    {
+        "name": "Slovenia",
+        "capital": "Ljubljana",
+        "currency": "Euro",
+        "language": "Slovene"
+    },
+    {
+        "name": "Solomon Islands",
+        "capital": "Honiara",
+        "currency": "Solomon Islands dollar",
+        "language": "English"
+    },
+    {
+        "name": "Somalia",
+        "capital": "Mogadishu",
+        "currency": "Somali shilling",
+        "language": "Arabic"
+    },
+    {
+        "name": "South Africa",
+        "capital": "Pretoria",
+        "currency": "South African rand",
+        "language": "English"
+    },
+    {
+        "name": "South Georgia And The South Sandwich Islands",
+        "capital": "King Edward Point",
+        "currency": "British pound",
+        "language": "English"
+    },
+    {
+        "name": "South Korea",
+        "capital": "Seoul",
+        "currency": "South Korean won",
+        "language": "Korean"
+    },
+    {
+        "name": "South Sudan",
+        "capital": "Juba",
+        "currency": "South Sudanese pound",
+        "language": "English"
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "currency": "Euro",
+        "language": "Spanish"
+    },
+    {
+        "name": "Sri Lanka",
+        "capital": "Colombo",
+        "currency": "Sri Lankan rupee",
+        "language": "Sinhalese"
+    },
+    {
+        "name": "Sudan",
+        "capital": "Khartoum",
+        "currency": "Sudanese pound",
+        "language": "Arabic"
+    },
+    {
+        "name": "Suriname",
+        "capital": "Paramaribo",
+        "currency": "Surinamese dollar",
+        "language": "Dutch"
+    },
+    {
+        "name": "Svalbard And Jan Mayen",
+        "capital": "Longyearbyen",
+        "currency": "Norwegian krone",
+        "language": "Norwegian"
+    },
+    {
+        "name": "Swaziland",
+        "capital": "Lobamba",
+        "currency": "Swazi lilangeni",
+        "language": "English"
+    },
+    {
+        "name": "Sweden",
+        "capital": "Stockholm",
+        "currency": "Swedish krona",
+        "language": "Swedish"
+    },
+    {
+        "name": "Switzerland",
+        "capital": "Bern",
+        "currency": "Swiss franc",
+        "language": "German"
+    },
+    {
+        "name": "Syria",
+        "capital": "Damascus",
+        "currency": "Syrian pound",
+        "language": "Arabic"
+    },
+    {
+        "name": "Taiwan",
+        "capital": "Taipei",
+        "currency": "New Taiwan dollar",
+        "language": "Chinese"
+    },
+    {
+        "name": "Tajikistan",
+        "capital": "Dushanbe",
+        "currency": "Tajikistani somoni",
+        "language": "Tajik"
+    },
+    {
+        "name": "Tanzania",
+        "capital": "Dodoma",
+        "currency": "Tanzanian shilling",
+        "language": "English"
+    },
+    {
+        "name": "Thailand",
+        "capital": "Bangkok",
+        "currency": "Thai baht",
+        "language": "Thai"
+    },
+    {
+        "name": "Timor-Leste",
+        "capital": "Dili",
+        "currency": "United States dollar",
+        "language": "Portuguese"
+    },
+    {
+        "name": "Togo",
+        "capital": "Lomé",
+        "currency": "West African CFA franc",
+        "language": "French"
+    },
+    {
+        "name": "Tokelau",
+        "capital": "Fakaofo",
+        "currency": "New Zealand dollar",
+        "language": "English"
+    },
+    {
+        "name": "Tonga",
+        "capital": "Nuku'alofa",
+        "currency": "Tongan paʻanga",
+        "language": "English"
+    },
+    {
+        "name": "Trinidad And Tobago",
+        "capital": "Port of Spain",
+        "currency": "Trinidad And Tobago dollar",
+        "language": "English"
+    },
+    {
+        "name": "Tunisia",
+        "capital": "Tunis",
+        "currency": "Tunisian dinar",
+        "language": "Arabic"
+    },
+    {
+        "name": "Turkey",
+        "capital": "Ankara",
+        "currency": "Turkish lira",
+        "language": "Turkish"
+    },
+    {
+        "name": "Turkmenistan",
+        "capital": "Ashgabat",
+        "currency": "Turkmenistan manat",
+        "language": "Turkmen"
+    },
+    {
+        "name": "Turks And Caicos Islands",
+        "capital": "Cockburn Town",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "Tuvalu",
+        "capital": "Funafuti",
+        "currency": "Australian dollar",
+        "language": "English"
+    },
+    {
+        "name": "Uganda",
+        "capital": "Kampala",
+        "currency": "Ugandan shilling",
+        "language": "English"
+    },
+    {
+        "name": "Ukraine",
+        "capital": "Kiev",
+        "currency": "Ukrainian hryvnia",
+        "language": "Ukrainian"
+    },
+    {
+        "name": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "currency": "United Arab Emirates dirham",
+        "language": "Arabic"
+    },
+    {
+        "name": "United Kingdom",
+        "capital": "London",
+        "currency": "British pound",
+        "language": "English"
+    },
+    {
+        "name": "United States of America",
+        "capital": "Washington, D.C.",
+        "currency": "United States dollar",
+        "language": "English"
+    },
+    {
+        "name": "Uruguay",
+        "capital": "Montevideo",
+        "currency": "Uruguayan peso",
+        "language": "Spanish"
+    },
+    {
+        "name": "Uzbekistan",
+        "capital": "Tashkent",
+        "currency": "Uzbekistani so'm",
+        "language": "Uzbek"
+    },
+    {
+        "name": "Vanuatu",
+        "capital": "Port Vila",
+        "currency": "Vanuatu vatu",
+        "language": "English"
+    },
+    {
+        "name": "Venezuela",
+        "capital": "Caracas",
+        "currency": "Venezuelan bolívar",
+        "language": "Spanish"
+    },
+    {
+        "name": "Vietnam",
+        "capital": "Hanoi",
+        "currency": "Vietnamese đồng",
+        "language": "Vietnamese"
+    },
+    {
+        "name": "Wallis And Futuna",
+        "capital": "Mata-Utu",
+        "currency": "CFP franc",
+        "language": "French"
+    },
+    {
+        "name": "Western Sahara",
+        "capital": "El Aaiún",
+        "currency": "Moroccan dirham",
+        "language": "Spanish"
+    },
+    {
+        "name": "Yemen",
+        "capital": "Sana'a",
+        "currency": "Yemeni rial",
+        "language": "Arabic"
+    },
+    {
+        "name": "Zambia",
+        "capital": "Lusaka",
+        "currency": "Zambian kwacha",
+        "language": "English"
+    },
+    {
+        "name": "Zimbabwe",
+        "capital": "Harare",
+        "currency": "Botswana pula",
+        "language": "English"
+    }
+]
